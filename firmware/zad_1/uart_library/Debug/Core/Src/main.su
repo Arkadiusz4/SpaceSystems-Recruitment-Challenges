@@ -1,0 +1,10 @@
+../Libraries/UART_Library/Inc/uart_protocol_library.h:10:6:UART_Init	16	static
+../Libraries/UART_Library/Inc/uart_protocol_library.h:13:6:UART_SendFrame	24	static
+../Libraries/UART_Library/Inc/uart_protocol_library.h:17:6:UART_ReceiveFrame	24	static
+../Libraries/UART_Library/Inc/uart_protocol_library.h:20:6:USART2_IRQHandler	4	static
+../Libraries/UART_Library/Inc/uart_protocol_library.h:23:6:callback	16	static
+../Core/Src/main.c:10:5:main	24	static
+../Core/Src/main.c:37:6:SystemClock_Config	88	static
+../Core/Src/main.c:63:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:91:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:95:6:Error_Handler	4	static,ignoring_inline_asm
