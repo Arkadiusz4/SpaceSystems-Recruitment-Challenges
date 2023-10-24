@@ -1,3 +1,5 @@
+# STM32G474RET3 UART transmission library 
+
 ## Important informations
 
 - The main function of the project can be found in `Core/Src/main.c`.
@@ -22,7 +24,7 @@ You'll need the following:
 
 ### Installation
 
-1. Clone or download this repository (uart_library).
+1. Clone or download this repository (`uart_library`).
 2. Open the project in STM32CubeIDE.
 3. Build the project.
 4. Flash the firmware to your STM32 board.
