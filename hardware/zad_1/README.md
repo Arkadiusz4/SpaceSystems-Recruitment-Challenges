@@ -1,4 +1,6 @@
-## ZADANIE 1
+# ZADANIE 1
+
+## Schemat znajduje się w PDF (`hardware1.pdf`).
 
 ### a)
 *Z wykorzystaniem przetwornika analogowo-cyfrowego wbudowanego w mikrokontrolerze musisz dokonać pomiaru sygnału o maksymalnej wartości napięcia do 5V oraz częstotliwości do 1MHz generowanego przez sensor o dużej impedancji wyjściowej.*
